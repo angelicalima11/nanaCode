@@ -17,7 +17,7 @@
 </p>Dicas para quem equilibra família, carreira e estudos.</p>
 </p></p>
 </p>Siga minha jornada e inspire-se: idade é só um número quando se trata de inovação! 🚀</p></p><b>#NanaCode #AvóNaTech #IAnoAgronegócio</b></p>
-## Contatos:
+<p><h1>## Contatos:</h1></p>
 <div>
 <a href="https://www.instagram.com/angelicalima11/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "angelicapostal@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
