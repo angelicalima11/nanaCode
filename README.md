@@ -8,7 +8,7 @@
 </p></p>
 </p><h1>Objetivos e Paixão pela IA:</h1> 🤖</p>
 </p>Meu grande sonho é trabalhar no desenvolvimento de inteligência artificial, especialmente em aplicações para sustentabilidade no agronegócio, como agricultura de precisão e análise de dados ambientais.</p></p>Estou caminhando passo a passo: estudando machine learning, cursos online e construindo protótipos. Se você é iniciante como eu ou um expert, vamos conectar e colaborar!</p>
-</p><h1>O Que Você Encontra Aqui:</h1> 📋</p>
+</p><h1>O Que Você Encontra Aqui:</h1></p>
 </p></p>
 </p>Projetos iniciais em Python (Google Colab).<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"width="40" height="40"/> </p>
 </p>Projetos iniciais em Java Script (Visual Code).<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain-wordmark.svg" width="40" height="40"/> </p>
