@@ -13,10 +13,10 @@
 </p>Projetos iniciais em Python (Google Colab).<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"width="40" height="40"/> </p>
 </p>Projetos iniciais em Java Script (Visual Code).<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain-wordmark.svg" width="40" height="40"/> </p>
 </p>Projetos iniciais no GitHub.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/> </p>
-</p>Reflexões sobre aprendizado tardio na tech.</p>
-</p>Dicas para quem equilibra família, carreira e estudos.</p>
+</p>🧠 Reflexões sobre aprendizado tardio na tech.</p>
+</p>💡 Dicas para quem equilibra família, carreira e estudos.</p>
 </p></p>
-</p>Siga minha jornada e inspire-se: idade é só um número quando se trata de inovação! 🚀</p></p><b>#NanaCode #AvóNaTech #IAnoAgronegócio</b></p>
+</p>🚀 Siga minha jornada e inspire-se: idade é só um número quando se trata de inovação! </p></p><b>#NanaCode #AvóNaTech #IAnoAgronegócio</b></p>
 <p><h1>## Contatos:</h1></p>
 <div>
 <a href="https://www.instagram.com/angelicalima11/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
