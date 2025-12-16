@@ -25,6 +25,7 @@
 <a href = "angelicapostal@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/maria-angélica-de-lima-b8553b351" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <div>
-<img width="650" height="893" alt="image" src="https://github.com/user-attachments/assets/9bbf1d17-2ecb-4af2-bb6b-a4f7865f01c4" />
+<img width="1000" height="1374" alt="octocat-1765851826793" src="https://github.com/user-attachments/assets/534b5e87-2239-477d-8e58-8f650583662e" />
+
 
 
