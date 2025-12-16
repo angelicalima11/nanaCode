@@ -1,5 +1,5 @@
 </p><h1>NanaCode:</h1><p>😍 Avó de 55 anos 😍, iniciante na programação.</p>
-
+![Foto](eu2.jpg)
 <img width="100" height="200" alt="octocat-1765851826793" src="https://github.com/user-attachments/assets/534b5e87-2239-477d-8e58-8f650583662e" /></p></p>
 <p>🛠️ Trabalha com ferramentas computacionais desde 2004 ( softwares educacionais,  planilhas, 🌾gestão agronegócio), mas agora fascina-se com codificação. Explora Python, Git e visa 🤖 IA.</p>
 <p>Idade não limita inovação! 🚀 #NanaCode #AvóNaTech #IAnoAgronegócio.</p>
