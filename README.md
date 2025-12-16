@@ -10,7 +10,7 @@
 </p>Meu grande sonho é trabalhar no desenvolvimento de inteligência artificial, especialmente em aplicações para sustentabilidade no agronegócio, como agricultura de precisão e análise de dados ambientais.</p></p>Estou caminhando passo a passo: estudando machine learning, cursos online e construindo protótipos. Se você é iniciante como eu ou um expert, vamos conectar e colaborar!</p>
 </p><h1>O Que Você Encontra Aqui:</h1></p>
 </p></p>
-</p>Projetos iniciais em Python (Google Colab).<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"width="40" height="40"/> </p>
+</p>Projetos iniciais em Python (Google Colab).<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="40" height="40"/> </p>
 </p>Projetos iniciais em Java Script (Visual Code).<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain-wordmark.svg" width="40" height="40"/> </p>
 </p>Projetos iniciais no GitHub.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/> </p>
 </p>🧠 Reflexões sobre aprendizado tardio na tech.</p>
@@ -22,4 +22,7 @@
 <a href="https://www.instagram.com/nanacode11/)/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "angelicapostal@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/maria-angélica-de-lima-b8553b351" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<div>
+<img width="650" height="893" alt="image" src="https://github.com/user-attachments/assets/9bbf1d17-2ecb-4af2-bb6b-a4f7865f01c4" />
+
+
