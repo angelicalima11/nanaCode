@@ -1,31 +1,30 @@
-# nanaCode
 </p><h1>NanaCode:</h1><p>😍 Avó de 55 anos 😍, iniciante na programação.</p>
-![Snake animation](https://github.com/angelicalima11/angelicalima11/blob/output/github-contribution-grid-snake.svg)
-</p></p>
+
+<img width="100" height="200" alt="octocat-1765851826793" src="https://github.com/user-attachments/assets/534b5e87-2239-477d-8e58-8f650583662e" /></p></p>
 <p>🛠️ Trabalha com ferramentas computacionais desde 2004 ( softwares educacionais,  planilhas, 🌾gestão agronegócio), mas agora fascina-se com codificação. Explora Python, Git e visa 🤖 IA.</p>
 <p>Idade não limita inovação! 🚀 #NanaCode #AvóNaTech #IAnoAgronegócio.</p>
 </p></p>
 </p><h1>Minha Jornada Atual:</h1>🌟</p>
 </p>Estou mergulhando de cabeça em linguagens como Python com VSCode e conceitos básicos de Git, commit e merge, para construir uma base sólida. </p> </p>Como professora, adoro compartilhar minhas descobertas e erros – afinal, aprender é um processo contínuo, independentemente da idade.</p></p> Meus projetos iniciais focam em automações simples e análises de dados agrícolas, unindo meu background em agronomia com a tecnologia.</p>
-</p></p>
-</p><h1>Objetivos e Paixão pela IA:</h1> 🤖</p>
-</p>Meu grande sonho é trabalhar no desenvolvimento de inteligência artificial, especialmente em aplicações para sustentabilidade no agronegócio, como agricultura de precisão e análise de dados ambientais.</p></p>Estou caminhando passo a passo: estudando machine learning, cursos online e construindo protótipos. Se você é iniciante como eu ou um expert, vamos conectar e colaborar!</p>
-</p><h1>O Que Você Encontra Aqui:</h1></p>
-</p></p>
-</p>Projetos iniciais em Python (Google Colab).<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="40" height="40"/> </p>
-</p>Projetos iniciais em Java Script (Visual Code).<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain-wordmark.svg" width="40" height="40"/> </p>
-</p>Projetos iniciais no GitHub.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/> </p>
-</p>🧠 Reflexões sobre aprendizado tardio na tech.</p>
-</p>💡 Dicas para quem equilibra família, carreira e estudos.</p>
-</p></p>
-</p>🚀 Siga minha jornada e inspire-se: idade é só um número quando se trata de inovação! </p></p><b>#NanaCode #AvóNaTech #IAnoAgronegócio</b></p>
-<p><h1>## Contatos:</h1></p>
+
+<<h1>Objetivos e Paixão pela IA:</h1> 🤖
+>Meu grande sonho é trabalhar no desenvolvimento de inteligência artificial, especialmente em aplicações para sustentabilidade no agronegócio, como agricultura de precisão e análise de dados ambientais.</p></p>Estou caminhando passo a passo: estudando machine learning, cursos online e construindo protótipos. Se você é iniciante como eu ou um expert, vamos conectar e colaborar!
+<h1>O Que Você Encontra Aqui:</h1>
+
+<p>Projetos iniciais em Python (Google Colab).  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="20" height="20"/></p> 
+<p>Projetos iniciais em Java Script (Visual Code).  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain-wordmark.svg" width="20" height="20"/></p>
+<p>Projetos iniciais no GitHub.  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="20" height="20"/></p>
+<p>🧠 Reflexões sobre aprendizado tardio na tech.</p>
+<p>💡 Dicas para quem equilibra família, carreira e estudos.</p>
+<p>🚀 Siga minha jornada e inspire-se: idade é só um número quando se trata de inovação! </p>
+<b>#NanaCode #AvóNaTech #IAnoAgronegócio</b></p><b>#NanaCode #AvóNaTech #IAnoAgronegócio</b>
+<h1>## Contatos:</h1></p>
 <div>
 <a href="https://www.instagram.com/nanacode11/)/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "angelicapostal@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/maria-angélica-de-lima-b8553b351" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <div>
-<img width="1000" height="1374" alt="octocat-1765851826793" src="https://github.com/user-attachments/assets/534b5e87-2239-477d-8e58-8f650583662e" />
+
 
 
 
